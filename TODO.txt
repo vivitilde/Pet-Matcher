@@ -1,0 +1,21 @@
+Questionaire
+  basically something like a uquiz but for pets 
+
+from the deliverable 
+
+```Steps:
+1. Log in to the system as a user.
+2. Navigate to the "Find a Pet" section.
+3. Enter user preferences (e.g., pet type, size, activity level, age).
+4. Click on the "Match" button to execute the matching algorithm.
+5. Review the list of matched pets provided by the system.
+Expected Results:
+- The program should accurately match users with pets according to their
+preferences, demonstrating the effectiveness of our matching logic.
+Pass/Fail Criteria:
+- Pass: The system displays a list of pets that accurately match the user's
+preferences.
+- Fail: The system fails to display a list of pets or displays pets that do not
+meet the specified criteria.```
+
+probably leave login for last if anything?
