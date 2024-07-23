@@ -30,6 +30,8 @@ class Questionnaire {
             case 3:
                 System.out.printf("You should consider getting a fish");
                 break;
+            default:
+                System.out.printf("You should consider getting a cat");
         }
     }
 }
